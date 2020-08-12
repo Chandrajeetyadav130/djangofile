@@ -1,2 +1,2 @@
-# djangofile
+# VoteProject
 small website
